@@ -1,2 +1,2 @@
 # exampleService
-Exemplo de criação de um WebService Java usando SOAP refernte a disciplina Tópicos de Programação
+Exemplo de criação de um WebService Java usando SOAP da disciplina Tópicos de Programação
